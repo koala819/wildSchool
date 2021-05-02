@@ -6,6 +6,6 @@
 <img align="right" width="500" height="500" src="00.jpg">
 
 # wildSchool
-Projet pour rentrer à la Wild Code School<br>
-Il fallait réaliser un programme dans le langage qu'on souhaitait pour ajouter un Argonaut.<br>
-Utilisation de JavaScript et de Firebase
+Project to get into the Wild Code School<br>
+We had to make a program in the language we wanted to add an Argonaut.<br>
+Use of JavaScript and Firebase
